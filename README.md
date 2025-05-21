@@ -1,2 +1,2 @@
 # ProfileUI
-![Alt Text](assets/UI.jpg)
+![App UI](assets/UI.jpg)
